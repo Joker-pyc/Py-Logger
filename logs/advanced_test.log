@@ -1,0 +1,2 @@
+2025-01-28 20:54:33,299 - [INFO] - Test log message 9 with some extended content to increase log size - (py_logger.py:108)
+2025-01-28 20:54:33,801 - [INFO] - Test log message 10 with some extended content to increase log size - (py_logger.py:108)

@@ -1,0 +1,7 @@
+2025-01-28 20:54:34,303 - TestApp - [INFO] - Starting test application... - (py_logger.py:108)
+2025-01-28 20:54:34,303 - TestApp - [DEBUG] - This is a debug message - useful for troubleshooting - (py_logger.py:104)
+2025-01-28 20:54:34,304 - TestApp - [INFO] - This is an info message - normal application flow - (py_logger.py:108)
+2025-01-28 20:54:34,304 - TestApp - [WARNING] - This is a warning - something might be wrong - (py_logger.py:112)
+2025-01-28 20:54:34,304 - TestApp - [INFO] - Processing user actions... - (py_logger.py:108)
+2025-01-28 20:54:34,304 - TestApp - [DEBUG] - Received user data: {'user_id': '12345', 'action': 'purchase', 'item_id': 'PROD_789', 'amount': 99.99} - (py_logger.py:104)
+2025-01-28 20:54:34,305 - TestApp - [INFO] - Data processing completed successfully: True - (py_logger.py:108)
